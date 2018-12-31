@@ -1,0 +1,3 @@
+Customer: trungnguyen.19972707@gmail.com  - Pass: trungnguyen1
+Merchant: xuanbach@gmail.com  -  Pass: xuanbach
+Admin: admin1  -  Pass: admin1

@@ -1,0 +1,28 @@
+E:\ASP.NET MVC PROJECT\ProjectBookSt_N7\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+E:\ASP.NET MVC PROJECT\ProjectBookSt_N7\ConsoleTest\bin\Debug\ConsoleTest.exe
+E:\ASP.NET MVC PROJECT\ProjectBookSt_N7\ConsoleTest\bin\Debug\ConsoleTest.pdb
+E:\ASP.NET MVC PROJECT\ProjectBookSt_N7\ConsoleTest\bin\Debug\Common.dll
+E:\ASP.NET MVC PROJECT\ProjectBookSt_N7\ConsoleTest\bin\Debug\Common.pdb
+E:\ASP.NET MVC PROJECT\ProjectBookSt_N7\ConsoleTest\obj\Debug\ConsoleTest.csprojAssemblyReference.cache
+E:\ASP.NET MVC PROJECT\ProjectBookSt_N7\ConsoleTest\obj\Debug\ConsoleTest.csproj.CoreCompileInputs.cache
+E:\ASP.NET MVC PROJECT\ProjectBookSt_N7\ConsoleTest\obj\Debug\ConsoleTest.csproj.CopyComplete
+E:\ASP.NET MVC PROJECT\ProjectBookSt_N7\ConsoleTest\obj\Debug\ConsoleTest.exe
+E:\ASP.NET MVC PROJECT\ProjectBookSt_N7\ConsoleTest\obj\Debug\ConsoleTest.pdb
+E:\ASP.NET MVC PROJECT\ProjectBookSt_N7\ConsoleTest\bin\Debug\ExcelDataReader.DataSet.dll
+E:\ASP.NET MVC PROJECT\ProjectBookSt_N7\ConsoleTest\bin\Debug\ExcelDataReader.dll
+E:\ASP.NET MVC PROJECT\ProjectBookSt_N7\ConsoleTest\bin\Debug\ExcelDataReader.xml
+E:\ASP.NET MVC PROJECT\ProjectBookSt_N7\ConsoleTest\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\trung\Desktop\ProjectBookSt_N7\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\Users\trung\Desktop\ProjectBookSt_N7\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\Users\trung\Desktop\ProjectBookSt_N7\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\Users\trung\Desktop\ProjectBookSt_N7\ConsoleTest\bin\Debug\Common.dll
+C:\Users\trung\Desktop\ProjectBookSt_N7\ConsoleTest\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\trung\Desktop\ProjectBookSt_N7\ConsoleTest\bin\Debug\ExcelDataReader.dll
+C:\Users\trung\Desktop\ProjectBookSt_N7\ConsoleTest\bin\Debug\Common.pdb
+C:\Users\trung\Desktop\ProjectBookSt_N7\ConsoleTest\bin\Debug\ExcelDataReader.xml
+C:\Users\trung\Desktop\ProjectBookSt_N7\ConsoleTest\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\trung\Desktop\ProjectBookSt_N7\ConsoleTest\obj\Debug\ConsoleTest.csprojAssemblyReference.cache
+C:\Users\trung\Desktop\ProjectBookSt_N7\ConsoleTest\obj\Debug\ConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\trung\Desktop\ProjectBookSt_N7\ConsoleTest\obj\Debug\ConsoleTest.csproj.CopyComplete
+C:\Users\trung\Desktop\ProjectBookSt_N7\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\Users\trung\Desktop\ProjectBookSt_N7\ConsoleTest\obj\Debug\ConsoleTest.pdb
